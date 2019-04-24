@@ -66,7 +66,7 @@ Blocks-based languages/environment pairs that go beyond basic animations:
 
 
 
-After choosing a language and environment, the next thing to do is some experimenting, observing and reading to figure out what will be most challenging for your students.  In teaching it's more important to know how you students will (mis)understand a concept than it is to know it perfectly yourself.  Being able to identify and correct their misconceptions is more valuable to their learning than you knowing concepts they won't encounter for several months.
+After choosing a language and environment, the next thing to do is some experimenting, observing and reading to figure out what will be most challenging for your students.  In teaching it's more important to know how you students will (mis)understand a concept than it is to know it perfectly yourself.  Being able to identify and correct your students' misconceptions is more valuable to their learning than you mastering how to apply the same concept yourself.
 
 What you can learn about your students' most-likely difficulties should shape your personal study.  Remember: you're not studying to become a developer, you're studying to teach the foundations of programming.
 
@@ -81,13 +81,13 @@ What you can learn about your students' most-likely difficulties should shape yo
 
 ## Practice Coding and Prepare Exercises
 
-With a little bit of planning it's possible to study and prepare class materials at the same time.  Seeing as some of the most effective types of exercises ask students to work with pre-written code (parsons problems, code completion, finding single bugs, and modifying behavior of existing code), it doesn't take much more effort to create exercises than to write your own notes.  
+With a little bit of planning it's possible to study and prepare lesson materials at the same time.  Seeing as some of the most effective types of exercises ask students to work with pre-written code (parsons problems, code completion, finding single bugs, and modifying behavior of existing code), it doesn't take much more effort to create exercises than to write your own notes.  
 
-By simply keeping a collection of the most helpful or challenging snippets you encounter in your own study, you can build up the raw material for the exercises you use in class. After studying go back through your collected snippets and make a series of practice exercises out of each one: create permalinks to [the parsonizer](https://blocks-to-text.github.io/parsonizer/), change variable names and constants then permalink to [Python Tutor](http://www.pythontutor.com/visualize.html#mode=edit), remove a line and replace it with a comment, introduce a single error.  Small changes that feel trivial to you can actually turn a familiar snippet into real challenge for students to understand.
+By simply keeping a collection of the most helpful or challenging snippets you encounter in your own study, you can build up the raw material for classroom exercises. After studying go back through your collected snippets and make a series of exercises out of each one: create permalinks to [the parsonizer](https://blocks-to-text.github.io/parsonizer/), permalink to [Python Tutor](http://www.pythontutor.com/visualize.html#mode=edit), change variable names and constants, remove a line and replace it with a comment, introduce a single error ...  Small changes that feel trivial to you can actually turn a familiar snippet into real challenge for your students.
 
 
 Recommended study resources:
-* [CS Principles: Big Ideas in Programming](https://runestone.academy/runestone/static/StudentCSP/index.html) - an outstanding course and reference for learning Python and how to use it.  Even if it is too much for your students to follow, it will not only teach you coding but how to teach it
+* [CS Principles: Big Ideas in Programming](https://runestone.academy/runestone/static/StudentCSP/index.html) - an outstanding course and reference for learning Python and how to use it.  Even if it is too much for your students to follow, it's worth studying yourself.  Not only will you learn to code, but how to teach coding.
 
 [TOP](#prepare-to-teach)
 
@@ -97,13 +97,13 @@ Recommended study resources:
 ## Use Integrative Projects
 
 
-The final result of a program written outside of Scratch and similar environments simply isn't as interesting.  Instead of a fun movie or game programs will now be outputting numbers or text.  Some students may love the pure challenge and puzzle of programming, but that won't work for everyone.  On the other hand, after a while students will often get bored of Scratch in search of some way to 
+The final result of a program written outside of Scratch (and similar environments) simply isn't as visually interesting.  Instead of a fun movie or game programs will now be outputting numbers or text.  Some students may love the pure challenge and puzzle of programming, but that doesn't work for everyone.  On the other hand, after a while students will often get bored of Scratch in search of some way to 
 
-As students transition from animation-based learning environments to "authentic" data-focused programming, it becomes more important to integrate programming into real-world cross-disciplinary projects.  How can programming be part of a history project? or how can students write use code to make something useful with the math they are learning?
+As students transition from animation-based learning environments to "authentic" data-focused programming, it becomes increasingly important to integrate programming into real-world cross-disciplinary projects.  How can programming be part of a history project? or how can students use code to apply the maths they are learning?
 
-Not only will this be more interesting for students, but it is also a more realistic exposure to how programming is used on a daily basis.  Treating programming as an isolated and "pure" skill set is not only an untruth but can scare away students who aren't strong programmers at the beginning or who are not interested in typing on a computer all day long. 
+Not only will this be more interesting for students, but it is also a more realistic exposure to how programming is used on a daily basis.  Treating programming as an isolated and "pure" skill set is not only an untruth but can scare away students who aren't strong programmers at the beginning or who are not interested in typing on a computer all day long.  Almost all professional programming tasks require at least as much domain knowledge as coding knowledge.
 
-One practical steps you can take to build these projects and to support your students through integrating code across the curriculum is to provide (nearly) completed code for different stages of your projects.  Not only will this help them learn to program faster, but it will free more of their attention to think about what role the code plays in the larger project.  Also by providing examples of the code at different levels of completion students can explore incremental development and see first hand that even you their teacher writes programs in little steps.
+One practical step you can take to plan these projects, and to integrate code across the curriculum is to provide (nearly) completed code for different stages of your projects.  Not only will this help them learn to program faster, but it will free more of their attention to think about what role the code plays in the larger project.  Also by providing examples of the code at different levels of completion students can explore incremental development and see first hand that even you their teacher writes programs in little steps.
 
 
 
@@ -133,9 +133,9 @@ Some simple things to try include:
 ## Coding is not about Code
 
 
-Finally, remind your students and yourself that learning to program isn't really the goal. Programming requires a set of technical tools including code and computers, but those tools are the result of a much longer tradition logic and problem solving mentality.  
+Finally, remind your students and yourself that learning to program isn't really the goal. Programming requires a set of technical tools including code and computers, but those tools are the result of a much longer tradition of logic and problem solving.  
 
-Prepare students to understand their world, to know they have a say in how it's shaped, and to think critically about how they interact with our digital world.  Learning to code will follow if it needs to.
+Prepare students to question their world, to know they have a say in how it's shaped, and to think critically about how they interact with our digital world.  Learning to code will follow.
 
 
 * [Successfully learning to code follows from a successful mindset](https://slate.com/human-interest/2018/12/against-teaching-kids-to-code-creativity-problem-solving.html), not the other way around
