@@ -1,6 +1,6 @@
 # Prepare to Teach
 
-Doing and teaching are different skills.  Studying code to teach is not the same as studying code to program.  You will need to learn to code a bit yourself, but more imprtanlty you'll need to learn what concepts and skills are most challenging for novices and how to teach them.  This is called Pedagogical Content Knowledge - knowing how to teach a thing not, not just do it.
+Doing and teaching are different skills.  Studying code to teach is not the same as studying code to program.  You will need to learn to code a bit yourself, but more imprtanlty you'll need to learn what concepts and skills are most challenging for novices and how to teach them.  This is called Pedagogical Content Knowledge - knowing how to teach a thing, not just do it.
 
 Helping your students transition to full-on programming can take a bit of preparation  You'll need to familiarize yourself with your students' programming language & environment, create exercises & projects, and ideally figure out how to integrate programming with other subjects your students are learning.  Knowing the environment and langauge from your student's perspective will allow you to make the best exercisees and projects.
 
